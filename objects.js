@@ -26,8 +26,8 @@ const findStatus = (employee) => {
     console.log(`${employee.name} is a total ${employee.status}`);
 }
 
-findStatus({
-    name: prompt("enter employee name"),
-    status: ``
-})
+// findStatus({
+//     name: prompt("enter employee name"),
+//     status: ``
+// })
 
